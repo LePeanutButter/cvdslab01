@@ -7,4 +7,4 @@ Se creó un repositorio local en Git utilizando Visual Studio Code.
 Para este ejercicio, se generó el archivo README.md y se enlazó con un repositorio vacío en GitHub.
 ![Screenshot002](Images/screenshot002.png)
 Se verificó que el push fue exitoso, por lo que ahora se están realizando ediciones en el README.md con los nuevos cambios.
-![Screenshot003]()
+![Screenshot003](Images/screenshot003.png)
